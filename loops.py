@@ -21,9 +21,17 @@ def loop():
 
   #dictionaries
   dic = {"key1": "a", "key2": "b", "key3": "c"}
+#.items() gives back the values
+  # for item in dic.items():
+  #   print(item)
+  for a,b in dic.items():
+    print(a,b)
 
-  for item in dic:
-    print(item)
+  #while loops
+  coins = 30
+  while coins < 40:
+    print(f"I have {coins} coins")
+    coins = coins + 1
 
   ###################################loops intro######################################
   # queue videos
