@@ -7,11 +7,30 @@
 # Random in python
 # List comprehension
 #importing modules
+#moduralized your code
 #work on creating and understanding functions
 
-from decision_making import decisions
-from comparison_operators import comparison
+# from decision_making import decisions
+# from comparison_operators import comparison
 # from dictionaries_loops import dictionaries_loops
+from loops import loop
+# from enumerators import enumerator
+# from list_comprehension import comprehension
+# from logical_operators import operator
+# from min_max import minmax
+# from random import random1
+# from ranges import range
+# from while_loops import whileloop
+# from zip import zippy
 
-decisions()
-comparison()
+#decisions()
+#comparison()
+loop()
+#enumerator()
+#comprehension()
+#operator()
+#minmax()
+#random1()
+#range()
+#whileloop()
+#zippy()
